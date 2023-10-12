@@ -1,0 +1,57 @@
+th {
+    background-color: lightgray;
+}
+
+table {
+    border: 2px solid black;
+}
+
+th {
+    border: 2px solid black;
+}
+
+td {
+    border: 2px solid black
+}
+
+th {
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+}
+
+table {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+img.img1 {
+    height: 5in;
+    width: 5%;
+    border-width: 5px;
+    border-style: dashed;
+    padding: 30px;
+    color: red;
+}
+
+img.img2 {
+    height: 30pt;
+    width: 15%;
+    border-width: 5px;
+    border-style: dashed;
+    padding: 30px;
+    color: red;
+}
+
+img.img3 {
+    height: 5in;
+    width: 25pt;
+    border-width: 5px;
+    border-style: dashed;
+    padding: 30px;
+    color: red;
+}
